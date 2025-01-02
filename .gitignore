@@ -1,0 +1,10 @@
+.DS_Store
+*.entitlements
+
+*.xcuserstate
+*.xcworkspace/
+*.xcuserstate
+**/xcuserdata/
+
+build/
+DerivedData/
